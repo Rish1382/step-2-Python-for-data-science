@@ -1,4 +1,4 @@
-1.cleaning-and-preparing-data-in-python-takeaways[Limnk](https://github.com/Rish1382/step-2-Python-for-data-science/blob/main/1.cleaning-and-preparing-data-in-python-takeaways.pdf)
+1.cleaning-and-preparing-data-in-python-takeaways[Link](https://github.com/Rish1382/step-2-Python-for-data-science/blob/main/1.cleaning-and-preparing-data-in-python-takeaways.pdf)
 
 2.Python Data Analysis Basics[Link](https://github.com/Rish1382/step-2-Python-for-data-science/blob/main/2.Python%20Data%20Analysis%20Basics.ipynb)
 
